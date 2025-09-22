@@ -5,7 +5,8 @@
 
 ---
 
-# ✨ Contributor  
+# ✨ Contributor
+
 **👤 Tarunya**
 
 ---
@@ -18,37 +19,42 @@
 
 ---
 
-## 💡 What Does "Forking" Mean?  
+## 💡 What Does "Forking" Mean?
+
 Forking = **making your own copy** of this repository under your GitHub account.  
-This lets you:  
-- 🛠️ Experiment safely  
-- 🚀 Add new features  
-- 🔄 Suggest improvements back to the original repo  
+This lets you:
+
+- 🛠️ Experiment safely
+- 🚀 Add new features
+- 🔄 Suggest improvements back to the original repo
 
 ---
 
 ## 🛠️ How to Fork This Repository (Step by Step)
 
-### 1️⃣ Sign in to GitHub  
+### 1️⃣ Sign in to GitHub
+
 🔑 [Create an account](https://github.com/join) if you don’t already have one.
 
 ---
 
-### 2️⃣ Open This Repository  
+### 2️⃣ Open This Repository
+
 👉 Navigate to the repository page (you’re already here! 🎉).
 
 ---
 
-### 3️⃣ Click the **Fork** Button  
-⚡ In the **top-right corner** of the page, click:  
+### 3️⃣ Click the **Fork** Button
+
+⚡ In the **top-right corner** of the page, click:
 
 <p align="center">
-  <img src="https://docs.github.com/assets/cb-23923/images/help/repository/fork_button.png" width="400"/>
+  <img src="https://github.githubassets.com/images/modules/site/social-preview/github-logo.png" width="400"/>
 </p>
 
 ---
 
-### 4️⃣ Clone Your Fork (Optional, for local work)  
+### 4️⃣ Clone Your Fork (Optional, for local work)
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
@@ -57,10 +63,11 @@ cd REPO-NAME
 
 ---
 
-### 5️⃣ Start Hacking 🎨  
-- Edit files  
-- Add features  
-- Commit and push changes  
+### 5️⃣ Start Hacking 🎨
+
+- Edit files
+- Add features
+- Commit and push changes
 
 ```bash
 git add .
@@ -70,9 +77,9 @@ git push origin main
 
 ---
 
-## 🔄 Keeping Your Fork Updated  
+## 🔄 Keeping Your Fork Updated
 
-Stay in sync with the original repo:  
+Stay in sync with the original repo:
 
 ```bash
 git remote add upstream https://github.com/ORIGINAL-OWNER/REPO-NAME.git
@@ -82,9 +89,10 @@ git merge upstream/main
 
 ---
 
-## 📚 Need More Help?  
-- 📖 [GitHub Docs on Forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo)  
-- 💬 Open an **Issue** in this repo if you’re stuck  
+## 📚 Need More Help?
+
+- 📖 [GitHub Docs on Forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- 💬 Open an **Issue** in this repo if you’re stuck
 
 ---
 
@@ -96,8 +104,9 @@ git merge upstream/main
 
 ---
 
-## 🌟 Show Some Love  
-If this repo helped you, give it a **star ⭐** on GitHub — it means a lot!  
+## 🌟 Show Some Love
+
+If this repo helped you, give it a **star ⭐** on GitHub — it means a lot!
 
 ---
 
