@@ -49,7 +49,7 @@ This lets you:
 ⚡ In the **top-right corner** of the page, click:
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/site/social-preview/github-logo.png" width="400"/>
+  <img src="https://docs.github.com/assets/images/help/repository/fork_button.png" width="400"/>
 </p>
 
 ---
