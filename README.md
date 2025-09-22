@@ -49,7 +49,7 @@ This lets you:
 ⚡ In the **top-right corner** of the page, click:
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/315651/git-fork.svg" width="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0wU56iFqITFyooboo2xo6nG0wKVeUZ2N0Ow&s" width="100"/>
 </p>
 
 ---
