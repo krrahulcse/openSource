@@ -1,2 +1,2 @@
 # openSource
-open Source Project Ideas -> 
+open Source Project Ideas ->
